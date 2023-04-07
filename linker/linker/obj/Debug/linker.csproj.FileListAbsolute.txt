@@ -1,0 +1,7 @@
+C:\Users\naima\source\repos\linker\linker\bin\Debug\linker.exe.config
+C:\Users\naima\source\repos\linker\linker\bin\Debug\linker.exe
+C:\Users\naima\source\repos\linker\linker\bin\Debug\linker.pdb
+C:\Users\naima\source\repos\linker\linker\obj\Debug\linker.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\linker\linker\obj\Debug\linker.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\linker\linker\obj\Debug\linker.exe
+C:\Users\naima\source\repos\linker\linker\obj\Debug\linker.pdb
